@@ -1,3 +1,10 @@
+# Foody Go
+Simple app to test what i have learnt and will transform with time as i learn more
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
